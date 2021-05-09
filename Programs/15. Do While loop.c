@@ -1,4 +1,4 @@
-/* 15. Program to print numbers from n to 1 using Do While loop. */
+/*  15. Program to print numbers from n to 1 using Do While Loop.  */
 
 #include<stdio.h>
 #include<conio.h>
