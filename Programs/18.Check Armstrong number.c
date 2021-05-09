@@ -1,4 +1,4 @@
-/* 18. Program to take a number from user and check whether it is Armstrong number or not. */
+/* 18. Program to take a number from user and check whether it is Armstrong Number or Not. */
 
 #include<stdio.h>
 #include<conio.h>
