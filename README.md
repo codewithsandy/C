@@ -1,4 +1,4 @@
-# <b>[C Programming]()</b>
+# <b>C Programming</b>
 
 <h2>This will helps to understand C in detail. And tells you Implementation of All ▲lgorithms in C Programming Language.</h2>
 =======
@@ -7,7 +7,7 @@
 <h2>My C Examples for everyone </h2>
 =======
 
-# [C Programs](Programs)
+# C Programs
 <hr>
 I do not consider myself as a programmer. I create these little programs as experiments to play with Python, or to solve problems for myself. 
 I would gladly accept pointers from others to improve, simplify, or make the code more efficient. If you would like to make any comments then please feel free to email me:
