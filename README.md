@@ -1,8 +1,8 @@
-# <b>C Programming</b>
+# <h1><b>C Programming</b></h1>
 
 <h2>This will helps to understand C in detail. And tells you Implementation of All ▲lgorithms in C Programming Language.</h2>
 =======
-<h3>This document cover all the basics to advance programs like Numeric Analysis, Loops, Array, String Operations, File Operations in C, Print Patterns, Data Structure, Randomized Algorithms, Searching, Queue algorithm, Sorting Divide and Conquer, Graph </h3>
+<h3>This document cover all the basics to advance programs like Numeric Analysis, Loops, Array, Equations, String Operations, File Operations in C, Print Patterns, Data Structure, Randomized Algorithms, Searching, Queue algorithm, Sorting Divide and Conquer, Graph </h3>
 
 <h2>My C Examples for everyone </h2>
 =======
