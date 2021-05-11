@@ -22,6 +22,18 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 
 - [Programs](https://github.com/codewithsandy/C/tree/master/Programs) - Chech if you are a learner or beginner programmer.
 
+- [Pattern Programs](https://github.com/codewithsandy/C/tree/master/Patterns) - Select Your Favourite pattern and get code.
+
+![PATTERN1](https://user-images.githubusercontent.com/80276013/117767122-1ede2400-b24e-11eb-8fed-b4b361c14f69.png)
+![PATTERN2](https://user-images.githubusercontent.com/80276013/117767135-24d40500-b24e-11eb-9489-5e33ab3ae48e.png)
+![PATTERN3](https://user-images.githubusercontent.com/80276013/117767156-2ac9e600-b24e-11eb-97bb-5c3f70e56e0f.png)
+![PATTERN4](https://user-images.githubusercontent.com/80276013/117767170-2f8e9a00-b24e-11eb-9c57-8f73e73fedd1.png)
+![PATTERN5](https://user-images.githubusercontent.com/80276013/117767187-32898a80-b24e-11eb-8d91-37d301ff76be.png)
+
+
+
+
+
 
 <hr>
 
