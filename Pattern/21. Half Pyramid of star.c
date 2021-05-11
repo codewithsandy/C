@@ -1,4 +1,5 @@
-/* Program for Half Pyramid of *
+/* 21.Program for Half Pyramid of *
+
 	*
 	* *
 	* * *
