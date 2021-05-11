@@ -22,7 +22,16 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 
 - [Programs](https://github.com/codewithsandy/C/tree/master/Programs) - Chech if you are a learner or beginner programmer.
 
-
+        *                1
+      * * *              1 2
+    * * * * *            1 2 3
+  * * * * * * *          1 2 3 4   
+* * * * * * * * *        1 2 3 4 5
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
 <hr>
 
 
