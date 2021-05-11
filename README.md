@@ -19,8 +19,9 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 
 # My Best C Examples for education 
 
-
 - [Programs](https://github.com/codewithsandy/C/tree/master/Programs) - Chech if you are a learner or beginner programmer.
+
+- [Arithmetic Numerical](https://github.com/codewithsandy/C/tree/master/Arithmetic%20Numerical) - Contains the differents Arithmetic numerical operations.
 
 - [Pattern Programs](https://github.com/codewithsandy/C/tree/master/Patterns) - Select Your Favourite pattern and get code.
 
