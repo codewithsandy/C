@@ -1,4 +1,4 @@
-/* 84. Program to convert Binary to Decimal. */
+/* 84. Write a Program to convert Binary to Decimal. */
 
 #include<stdio.h>
 #include<math.h>
