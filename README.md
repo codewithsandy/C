@@ -20,8 +20,6 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 
 # My Best C Examples for education
 
-- [Programs](https://github.com/codewithsandy/C/tree/master/Programs) - Chech if you are a learner or beginner programmer.
-
 - [Hello World](https://github.com/codewithsandy/C/blob/master/01.%20Hello%20World.c) - First program in c.
 - [Array](https://github.com/codewithsandy/C/tree/master/Array) - We have used Array in a many of examples on string and number's in this directory.
 - [String](https://github.com/codewithsandy/C/tree/master/String) - We have used String in a number of examples in this directory.
