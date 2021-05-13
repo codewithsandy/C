@@ -26,6 +26,7 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 - [Arithmetic Numerical](https://github.com/codewithsandy/C/tree/master/Arithmetic%20Numerical) - Contains the differents Arithmetic numerical operations.
 - [Numerical Method's](https://github.com/codewithsandy/C/tree/master/Numerical%20Method's) - Contains the differents Arithmetic Methods and Equations.
 - [Matrics Programs](https://github.com/codewithsandy/C/tree/master/Matrix) - Contains the programs of differents operations on matrics.
+- [Binary Conversion](https://github.com/codewithsandy/C/tree/master/Binary%20Conversion's) - The Spectial programs in c, Decimal to Binary and Binary to Decimal.
 - [Pattern Programs](https://github.com/codewithsandy/C/tree/master/Patterns) - Select Your Favourite pattern and get code.
 
 ![PATTERN1](https://user-images.githubusercontent.com/80276013/117767122-1ede2400-b24e-11eb-8fed-b4b361c14f69.png)
