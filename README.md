@@ -22,7 +22,9 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 - [Programs](https://github.com/codewithsandy/C/tree/master/Programs) - Chech if you are a learner or beginner programmer.
 
 - [Hello World](https://github.com/codewithsandy/C/blob/master/01.%20Hello%20World.c) - First program in c.
-
+- [Array](https://github.com/codewithsandy/C/tree/master/Array) - We have used Array in a many of examples on string and number's in this directory.
+- [String](https://github.com/codewithsandy/C/tree/master/String) - We have used String in a number of examples in this directory.
+- [Do Whilw Loop](https://github.com/codewithsandy/C/tree/master/Loop) - We have used do while looping structure in many programs.
 - [Arithmetic Numerical](https://github.com/codewithsandy/C/tree/master/Arithmetic%20Numerical) - Contains the differents Arithmetic numerical operations.
 - [Numerical Method's](https://github.com/codewithsandy/C/tree/master/Numerical%20Method's) - Contains the differents Arithmetic Methods and Equations.
 - [Matrics Programs](https://github.com/codewithsandy/C/tree/master/Matrix) - Contains the programs of differents operations on matrics.
