@@ -1,15 +1,16 @@
 # <h1><b>C Programming</b></h1>
 
-<h2>This will helps to understand C in detail. And tells you Implementation of All ▲lgorithms in C Programming Language.</h2>
-=======
-<h3>This document cover all the basics to advance programs like Numeric Analysis, Loops, Array, Equations, String Operations, File Operations in C, Print Patterns, Data Structure, Randomized Algorithms, Searching, Queue algorithm, Sorting Divide and Conquer, Graph </h3>
+<h2>This will helps you to enhancement in C. This will explains in a easy-to-understand.</h2>
+
+# ANSI C 
+
+<h4> This document cover all the basics to advance programs like  </h4> 
+<h3>
+Arithmetic Numeric Analysis | Loops | Array | String | Function | List | Linked List | Methods & Equations | Operators & Expressions | Structures & Unions | Print Patterns | Data Structure | Randomized Algorithms | Searching | Sorting | Stack & Queue algorithm | Hashing | Graph | Tree | File Management & Operations | Memory Allocation | Client-Server |</h3>
 
 <h2>My C Examples for everyone </h2>
-=======
-
-# C Programs
 <hr>
-I do not consider myself as a programmer. I create these little programs as experiments to play with Python, or to solve problems for myself. 
+I do consider myself as a programmer. And I create these little programs as experiments to learn with <b>ANSI C</b>, or to solve problems for myself. 
 I would gladly accept pointers from others to improve, simplify, or make the code more efficient. If you would like to make any comments then please feel free to email me:
 
 <h3><b>SANDESH POL.</b></h3>
@@ -17,12 +18,12 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 :email: sandeshpol123@gmail.com
 <hr>
 
-# My Best C Examples for education 
-
-- [Programs](https://github.com/codewithsandy/C/tree/master/Programs) - Chech if you are a learner or beginner programmer.
+# My Best C Examples for education
 
 - [Hello World](https://github.com/codewithsandy/C/blob/master/01.%20Hello%20World.c) - First program in c.
-
+- [Array](https://github.com/codewithsandy/C/tree/master/Array) - We have used Array in a many of examples on string and number's in this directory.
+- [String](https://github.com/codewithsandy/C/tree/master/String) - We have used String in a number of examples in this directory.
+- [Do Whilw Loop](https://github.com/codewithsandy/C/tree/master/Loop) - We have used do while looping structure in many programs.
 - [Arithmetic Numerical](https://github.com/codewithsandy/C/tree/master/Arithmetic%20Numerical) - Contains the differents Arithmetic numerical operations.
 - [Numerical Method's](https://github.com/codewithsandy/C/tree/master/Numerical%20Method's) - Contains the differents Arithmetic Methods and Equations.
 - [Matrics Programs](https://github.com/codewithsandy/C/tree/master/Matrix) - Contains the programs of differents operations on matrics.
