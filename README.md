@@ -28,6 +28,7 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 - [Linked List](https://github.com/codewithsandy/C/graphs/traffic) - This directory contains the linked list programs.
 - [Arithmetic Numerical](https://github.com/codewithsandy/C/tree/master/Arithmetic%20Numerical) - Contains the differents Arithmetic numerical operations.
 - [Numerical Method's](https://github.com/codewithsandy/C/tree/master/Numerical%20Method's) - Contains the differents Arithmetic Methods and Equations.
+- [Complex Number](https://github.com/codewithsandy/C/tree/master/Complex%20Number) - This directory contains the complex number programs.
 - [Pointer](https://github.com/codewithsandy/C/tree/master/Pointer) - Contains the Pointer programs.
 - [Matrics Programs](https://github.com/codewithsandy/C/tree/master/Matrix) - Contains the programs of differents operations on matrics.
 - [Binary Conversion](https://github.com/codewithsandy/C/tree/master/Binary%20Conversion's) - The Spectial programs in c, Decimal to Binary and Binary to Decimal.
