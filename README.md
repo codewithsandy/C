@@ -31,6 +31,7 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 - [Pointer](https://github.com/codewithsandy/C/tree/master/Pointer) - Contains the Pointer programs.
 - [Matrics Programs](https://github.com/codewithsandy/C/tree/master/Matrix) - Contains the programs of differents operations on matrics.
 - [Binary Conversion](https://github.com/codewithsandy/C/tree/master/Binary%20Conversion's) - The Spectial programs in c, Decimal to Binary and Binary to Decimal.
+- [Searching](https://github.com/codewithsandy/C/tree/master/Search) - Differnet searching programs.
 - [Sorting](https://github.com/codewithsandy/C/tree/master/Sort) - Differnet sorting method programs.
 - [Pattern Programs](https://github.com/codewithsandy/C/tree/master/Pattern) - Select Your Favourite pattern and get code on this directory with respective number.
 
