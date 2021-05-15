@@ -45,6 +45,7 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 ![PATTERN3](https://user-images.githubusercontent.com/80276013/117767156-2ac9e600-b24e-11eb-97bb-5c3f70e56e0f.png)
 ![PATTERN4](https://user-images.githubusercontent.com/80276013/117767170-2f8e9a00-b24e-11eb-9c57-8f73e73fedd1.png)
 ![PATTERN5](https://user-images.githubusercontent.com/80276013/117767187-32898a80-b24e-11eb-8d91-37d301ff76be.png)
+
 <hr>
 
 
