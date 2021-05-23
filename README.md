@@ -41,6 +41,10 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 - [Sorting](https://github.com/codewithsandy/C/tree/master/Sort) - Differnet sorting method programs.
 
 - [Pattern Programs](https://github.com/codewithsandy/C/tree/master/Pattern) - Select Your Favourite pattern and get code on this directory with respective number.
+   <details><summary>Programs List </summary>
+   
+   - [21](https://github.com/codewithsandy/C/blob/master/Pattern/21.%20Half%20Pyramid%20of%20star.c) - Program for Half Pyramid of *.
+ 
 ![PATTERN1](https://user-images.githubusercontent.com/80276013/117767122-1ede2400-b24e-11eb-8fed-b4b361c14f69.png)
 ![PATTERN2](https://user-images.githubusercontent.com/80276013/117767135-24d40500-b24e-11eb-9489-5e33ab3ae48e.png)
 ![PATTERN3](https://user-images.githubusercontent.com/80276013/117767156-2ac9e600-b24e-11eb-97bb-5c3f70e56e0f.png)
