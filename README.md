@@ -50,6 +50,9 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
    - [25](https://github.com/codewithsandy/C/blob/master/Pattern/25.%20Half%20pyramid%20of%20reverse%20number.c) - Program for Half pyramid of reverse number. 
    - [26](https://github.com/codewithsandy/C/blob/master/Pattern/26.%20Half%20pyramid%20of%20alphabet.c) - Program  for patterns of half alphabets
    - [27](https://github.com/codewithsandy/C/blob/master/Pattern/27.%20Pattern%20(1%2C121%2C12321)%20format.c) - Program  for patterns of numbers
+   - [28](https://github.com/codewithsandy/C/blob/master/Pattern/28.%20Half%20Pyramid%20of%20Binart%20digit.c) - Pattern of half pyramid of binary digit
+   - [29](https://github.com/codewithsandy/C/blob/master/Pattern/29.%20Half%20pyramid%20inverted%20no.c) - Pattern half pyramid of inverted number
+   - [30](https://github.com/codewithsandy/C/blob/master/Pattern/30.%20Reverse%20half-pyramid%20of%20num.c) - Pattern reverse half pyramid of number
  
 ![PATTERN1](https://user-images.githubusercontent.com/80276013/117767122-1ede2400-b24e-11eb-8fed-b4b361c14f69.png)
 ![PATTERN2](https://user-images.githubusercontent.com/80276013/117767135-24d40500-b24e-11eb-9489-5e33ab3ae48e.png)
