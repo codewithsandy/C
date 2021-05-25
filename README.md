@@ -53,6 +53,8 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
    - [28](https://github.com/codewithsandy/C/blob/master/Pattern/28.%20Half%20Pyramid%20of%20Binart%20digit.c) - Pattern of half pyramid of binary digit
    - [29](https://github.com/codewithsandy/C/blob/master/Pattern/29.%20Half%20pyramid%20inverted%20no.c) - Pattern half pyramid of inverted number
    - [30](https://github.com/codewithsandy/C/blob/master/Pattern/30.%20Reverse%20half-pyramid%20of%20num.c) - Pattern reverse half pyramid of number
+   - [31](https://github.com/codewithsandy/C/blob/master/Pattern/31.%20Dis-joint%20number%20pyramid%20.c) - Program for Disjoint Pyramid Pattern of number
+   - [32](https://github.com/codewithsandy/C/blob/master/Pattern/32.%20Floyd's%20triangle.c) - Program for pyramid of Floyd's triangle
  
 ![PATTERN1](https://user-images.githubusercontent.com/80276013/117767122-1ede2400-b24e-11eb-8fed-b4b361c14f69.png)
 ![PATTERN2](https://user-images.githubusercontent.com/80276013/117767135-24d40500-b24e-11eb-9489-5e33ab3ae48e.png)
