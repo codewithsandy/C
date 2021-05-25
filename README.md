@@ -55,6 +55,8 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
    - [30](https://github.com/codewithsandy/C/blob/master/Pattern/30.%20Reverse%20half-pyramid%20of%20num.c) - Pattern reverse half pyramid of number
    - [31](https://github.com/codewithsandy/C/blob/master/Pattern/31.%20Dis-joint%20number%20pyramid%20.c) - Program for Disjoint Pyramid Pattern of number
    - [32](https://github.com/codewithsandy/C/blob/master/Pattern/32.%20Floyd's%20triangle.c) - Program for pyramid of Floyd's triangle
+   - [33](https://github.com/codewithsandy/C/blob/master/Pattern/33.%20Pyramid%20of%20star.c) - Program for Pyramid of star
+   - [34](https://github.com/codewithsandy/C/blob/master/Pattern/34.%20Pyramid%20star_A_star.c) - Program for Pyramid pattern
  
 ![PATTERN1](https://user-images.githubusercontent.com/80276013/117767122-1ede2400-b24e-11eb-8fed-b4b361c14f69.png)
 ![PATTERN2](https://user-images.githubusercontent.com/80276013/117767135-24d40500-b24e-11eb-9489-5e33ab3ae48e.png)
