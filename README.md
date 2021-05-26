@@ -57,7 +57,9 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
    - [32](https://github.com/codewithsandy/C/blob/master/Pattern/32.%20Floyd's%20triangle.c) - Program for pyramid of Floyd's triangle
    - [33](https://github.com/codewithsandy/C/blob/master/Pattern/33.%20Pyramid%20of%20star.c) - Program for Pyramid of star
    - [34](https://github.com/codewithsandy/C/blob/master/Pattern/34.%20Pyramid%20star_A_star.c) - Program for Pyramid pattern.
-   - [35](https://github.com/codewithsandy/C/blob/master/Pattern/35.%20Pyramid%201-9%20number.c) - Pattern for Number Pyramid
+   - [35](https://github.com/codewithsandy/C/blob/master/Pattern/35.%20Pyramid%201-9%20number.c) - Pattern for Number Pyramid.
+   - [36](https://github.com/codewithsandy/C/blob/master/Pattern/36.%20Pascal%20triangle.c) - Program for pyramid of Pascal triangle
+   - [37](https://github.com/codewithsandy/C/blob/master/Pattern/37.%20Pascal%20triangle(without%20function).c) - Pascal triangle without using function
  
 ![PATTERN1](https://user-images.githubusercontent.com/80276013/117767122-1ede2400-b24e-11eb-8fed-b4b361c14f69.png)
 ![PATTERN2](https://user-images.githubusercontent.com/80276013/117767135-24d40500-b24e-11eb-9489-5e33ab3ae48e.png)
