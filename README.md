@@ -73,6 +73,13 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
    - [48](https://github.com/codewithsandy/C/blob/master/Pattern/48.%20Reverse%20star%20pyramid.c) - Program for Reverse star pyramid.
    - [49](https://github.com/codewithsandy/C/blob/master/Pattern/49.%20Rhombus%20Pattern.c) - Program for Rhombus Pattern.
    - [50](https://github.com/codewithsandy/C/blob/master/Pattern/50.%20Square%20kite%20pattern.c) - Program for Square kite pattern.
+   - [51](https://github.com/codewithsandy/C/blob/master/Pattern/51.%20Triangle%20with%20only%20border.c) - Program for Triangle with only border
+   - [124](https://github.com/codewithsandy/C/blob/master/Pattern/124.%20Numerical%20Spiral%20Pattern.c) - Program for Numerical Spiral Pattern.
+   - [128](https://github.com/codewithsandy/C/blob/master/Pattern/128.%20Half%20Pyramid%20Pattern(1%2C%2032%2C%20456).c) - Program for Pattern.
+   - [129](https://github.com/codewithsandy/C/blob/master/Pattern/129.%20half%20Pattern(1%2C%208%202%2C14%209%203).c) - Program for Pattern.
+   - [130](https://github.com/codewithsandy/C/blob/master/Pattern/130.%20Swastika%20pattern.c) - Program for Swastika pattern.
+   - [131](https://github.com/codewithsandy/C/blob/master/Pattern/131.%20H%20pattern.c) - Program for H pattern
+   - [132](https://github.com/codewithsandy/C/blob/master/Pattern/132.%20Diamond%204%20Pattern.c) - Program for @
  
 ![PATTERN1](https://user-images.githubusercontent.com/80276013/117767122-1ede2400-b24e-11eb-8fed-b4b361c14f69.png)
 ![PATTERN2](https://user-images.githubusercontent.com/80276013/117767135-24d40500-b24e-11eb-9489-5e33ab3ae48e.png)
