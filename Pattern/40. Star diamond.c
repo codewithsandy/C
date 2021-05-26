@@ -1,4 +1,4 @@
-42. Diamond Pattern
+/* Diamond Pattern
 
    	    *
 	  ***
