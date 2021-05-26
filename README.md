@@ -68,6 +68,11 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
    - [43](https://github.com/codewithsandy/C/blob/master/Pattern/43.%20Diamond%20star%20outline.c) - Program for pattern of diamond star outline.
    - [44](https://github.com/codewithsandy/C/blob/master/Pattern/44.%20Hollow%20Diamond.c) - Program for pattern of Hollow Diamond
    - [45](https://github.com/codewithsandy/C/blob/master/Pattern/45.%20Hollow%20Square.c) - Program for pattern of Hollow Square.
+   - [46](https://github.com/codewithsandy/C/blob/master/Pattern/46.%20Hourglass%20Pattern.c) - Program for pattern of  Hourglass 
+   - [47](https://github.com/codewithsandy/C/blob/master/Pattern/47.%20Nested%20Star-Hash%20Pyramid.c) - Nested Star-Hash Pyramid.
+   - [48](https://github.com/codewithsandy/C/blob/master/Pattern/48.%20Reverse%20star%20pyramid.c) - Program for Reverse star pyramid.
+   - [49](https://github.com/codewithsandy/C/blob/master/Pattern/49.%20Rhombus%20Pattern.c) - Program for Rhombus Pattern.
+   - [50](https://github.com/codewithsandy/C/blob/master/Pattern/50.%20Square%20kite%20pattern.c) - Program for Square kite pattern.
  
 ![PATTERN1](https://user-images.githubusercontent.com/80276013/117767122-1ede2400-b24e-11eb-8fed-b4b361c14f69.png)
 ![PATTERN2](https://user-images.githubusercontent.com/80276013/117767135-24d40500-b24e-11eb-9489-5e33ab3ae48e.png)
