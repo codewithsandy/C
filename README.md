@@ -63,6 +63,9 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
    - [38](https://github.com/codewithsandy/C/blob/master/Pattern/38.%20Pascal%20triangle(1%2C121).c) - Program for Pascal triangle 2
    - [39](https://github.com/codewithsandy/C/blob/master/Pattern/39.%20Half%20Pyramid(number%2Calphabet).c) - Program for Pyramid of Number Alphabet Pattern
    - [40](https://github.com/codewithsandy/C/blob/master/Pattern/40.%20Star%20diamond.c) - Diamond Pattern
+   - [41](https://github.com/codewithsandy/C/blob/master/Pattern/41.%20Num%20Diamond.c) - Program for Number Diamond Pattern
+   - [42](https://github.com/codewithsandy/C/blob/master/Pattern/42.%20Diamond%20(1%2C222).c) - Program for Diamond of Numbers Pattern
+   - [43](https://github.com/codewithsandy/C/blob/master/Pattern/43.%20Diamond%20star%20outline.c) - Program for pattern of diamond star outline
  
 ![PATTERN1](https://user-images.githubusercontent.com/80276013/117767122-1ede2400-b24e-11eb-8fed-b4b361c14f69.png)
 ![PATTERN2](https://user-images.githubusercontent.com/80276013/117767135-24d40500-b24e-11eb-9489-5e33ab3ae48e.png)
