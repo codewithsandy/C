@@ -53,6 +53,33 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
    - [28](https://github.com/codewithsandy/C/blob/master/Pattern/28.%20Half%20Pyramid%20of%20Binart%20digit.c) - Pattern of half pyramid of binary digit
    - [29](https://github.com/codewithsandy/C/blob/master/Pattern/29.%20Half%20pyramid%20inverted%20no.c) - Pattern half pyramid of inverted number
    - [30](https://github.com/codewithsandy/C/blob/master/Pattern/30.%20Reverse%20half-pyramid%20of%20num.c) - Pattern reverse half pyramid of number
+   - [31](https://github.com/codewithsandy/C/blob/master/Pattern/31.%20Dis-joint%20number%20pyramid%20.c) - Program for Disjoint Pyramid Pattern of number
+   - [32](https://github.com/codewithsandy/C/blob/master/Pattern/32.%20Floyd's%20triangle.c) - Program for pyramid of Floyd's triangle
+   - [33](https://github.com/codewithsandy/C/blob/master/Pattern/33.%20Pyramid%20of%20star.c) - Program for Pyramid of star
+   - [34](https://github.com/codewithsandy/C/blob/master/Pattern/34.%20Pyramid%20star_A_star.c) - Program for Pyramid pattern.
+   - [35](https://github.com/codewithsandy/C/blob/master/Pattern/35.%20Pyramid%201-9%20number.c) - Pattern for Number Pyramid.
+   - [36](https://github.com/codewithsandy/C/blob/master/Pattern/36.%20Pascal%20triangle.c) - Program for pyramid of Pascal triangle
+   - [37](https://github.com/codewithsandy/C/blob/master/Pattern/37.%20Pascal%20triangle(without%20function).c) - Pascal triangle without using function.
+   - [38](https://github.com/codewithsandy/C/blob/master/Pattern/38.%20Pascal%20triangle(1%2C121).c) - Program for Pascal triangle 2.
+   - [39](https://github.com/codewithsandy/C/blob/master/Pattern/39.%20Half%20Pyramid(number%2Calphabet).c) - Program for Pyramid of Number Alphabet Pattern.
+   - [40](https://github.com/codewithsandy/C/blob/master/Pattern/40.%20Star%20diamond.c) - Diamond Pattern.
+   - [41](https://github.com/codewithsandy/C/blob/master/Pattern/41.%20Num%20Diamond.c) - Program for Number Diamond Pattern.
+   - [42](https://github.com/codewithsandy/C/blob/master/Pattern/42.%20Diamond%20(1%2C222).c) - Program for Diamond of Numbers Pattern.
+   - [43](https://github.com/codewithsandy/C/blob/master/Pattern/43.%20Diamond%20star%20outline.c) - Program for pattern of diamond star outline.
+   - [44](https://github.com/codewithsandy/C/blob/master/Pattern/44.%20Hollow%20Diamond.c) - Program for pattern of Hollow Diamond
+   - [45](https://github.com/codewithsandy/C/blob/master/Pattern/45.%20Hollow%20Square.c) - Program for pattern of Hollow Square.
+   - [46](https://github.com/codewithsandy/C/blob/master/Pattern/46.%20Hourglass%20Pattern.c) - Program for pattern of  Hourglass 
+   - [47](https://github.com/codewithsandy/C/blob/master/Pattern/47.%20Nested%20Star-Hash%20Pyramid.c) - Nested Star-Hash Pyramid.
+   - [48](https://github.com/codewithsandy/C/blob/master/Pattern/48.%20Reverse%20star%20pyramid.c) - Program for Reverse star pyramid.
+   - [49](https://github.com/codewithsandy/C/blob/master/Pattern/49.%20Rhombus%20Pattern.c) - Program for Rhombus Pattern.
+   - [50](https://github.com/codewithsandy/C/blob/master/Pattern/50.%20Square%20kite%20pattern.c) - Program for Square kite pattern.
+   - [51](https://github.com/codewithsandy/C/blob/master/Pattern/51.%20Triangle%20with%20only%20border.c) - Program for Triangle with only border
+   - [124](https://github.com/codewithsandy/C/blob/master/Pattern/124.%20Numerical%20Spiral%20Pattern.c) - Program for Numerical Spiral Pattern.
+   - [128](https://github.com/codewithsandy/C/blob/master/Pattern/128.%20Half%20Pyramid%20Pattern(1%2C%2032%2C%20456).c) - Program for Pattern.
+   - [129](https://github.com/codewithsandy/C/blob/master/Pattern/129.%20half%20Pattern(1%2C%208%202%2C14%209%203).c) - Program for Pattern.
+   - [130](https://github.com/codewithsandy/C/blob/master/Pattern/130.%20Swastika%20pattern.c) - Program for Swastika pattern.
+   - [131](https://github.com/codewithsandy/C/blob/master/Pattern/131.%20H%20pattern.c) - Program for H pattern
+   - [132](https://github.com/codewithsandy/C/blob/master/Pattern/132.%20Diamond%204%20Pattern.c) - Program for @
  
 ![PATTERN1](https://user-images.githubusercontent.com/80276013/117767122-1ede2400-b24e-11eb-8fed-b4b361c14f69.png)
 ![PATTERN2](https://user-images.githubusercontent.com/80276013/117767135-24d40500-b24e-11eb-9489-5e33ab3ae48e.png)

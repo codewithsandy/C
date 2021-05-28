@@ -1,10 +1,10 @@
 /* 45. Program for pattern of Hollow Square
 
-* * * * *
+* * * * *  *
 *          *
 *          *
 *          *
-* * * * *
+* * * * *  *
 			*/
 #include<stdio.h>
 #include<conio.h>
