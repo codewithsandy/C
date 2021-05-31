@@ -24,6 +24,17 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 
 - [Hello World](https://github.com/codewithsandy/C/blob/master/01.%20Hello%20World.c) - First program in c.
 - [Array](https://github.com/codewithsandy/C/tree/master/Array) - We have used Array in a many of examples on string and number's in this directory.
+   <details><summary>Array Programs</summary>
+   
+   - [1](https://github.com/codewithsandy/C/blob/master/Array/57.%20Add%20'n'%20numbers%20using%20array.c) - Add 'n' numbers using array.
+   - [2](https://github.com/codewithsandy/C/blob/master/Array/104.%20%20palindrome%20of%20word%20using%20array.c) - Program to check the palindrome of word using array.
+   - [3](https://github.com/codewithsandy/C/blob/master/Array/111.%20Arrange%20array%20in%20ascending%20order.c) - Program to arrange array numbers in ascending order.
+   - [4](https://github.com/codewithsandy/C/blob/master/Array/113.%20Delete%20an%20element%20from%20array.c) - Program to delete an element from array.
+   - [5](https://github.com/codewithsandy/C/blob/master/Array/117.%20Largest%20and%20Smallest%20number%20in%20array.c) - Program to find Largest and Smallest number in array.
+   - [6](https://github.com/codewithsandy/C/blob/master/Array/118.%20reverse%20the%20array.c) - Program to reverse the array.
+   - [7](https://github.com/codewithsandy/C/blob/master/Array/119.%20insert%20an%20element%20in%20array.c) - Program to insert an element in array.
+ 
+
 - [String](https://github.com/codewithsandy/C/tree/master/String) - We have used String in a number of examples in this directory.
 - [Do While Loop](https://github.com/codewithsandy/C/tree/master/Loop) - We have used do while looping structure in many programs.
 - [Linked List](https://github.com/codewithsandy/C/graphs/traffic) - This directory contains the linked list programs.
