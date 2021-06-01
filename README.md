@@ -24,7 +24,7 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 
 - [Hello World](https://github.com/codewithsandy/C/blob/master/01.%20Hello%20World.c) - First program in c.
 - [Array](https://github.com/codewithsandy/C/tree/master/Array) - We have used Array in a many of examples on string and number's in this directory.
-   <details><summary>Array Programs</summary>
+   <details><summary> Programs</summary>
    
    - [1](https://github.com/codewithsandy/C/blob/master/Array/57.%20Add%20'n'%20numbers%20using%20array.c) - Add 'n' numbers using array.
    - [2](https://github.com/codewithsandy/C/blob/master/Array/104.%20%20palindrome%20of%20word%20using%20array.c) - Program to check the palindrome of word using array.
@@ -47,13 +47,21 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
  
 - [Pointer](https://github.com/codewithsandy/C/tree/master/Pointer) - Contains the Pointer programs.
 - [Matrics Programs](https://github.com/codewithsandy/C/tree/master/Matrix) - Contains the programs of differents operations on matrics.
+    <details><summary> Programs</summary>
+   
+   - [1](https://github.com/codewithsandy/C/blob/master/Matrix/110.%20Add%20two%20matrix.c) - Program to add two matrix.
+   - [2](https://github.com/codewithsandy/C/blob/master/Matrix/112.%20matrix%20is%20sparse%20or%20not.c) - Program to check whether the matrix is sparse matrix or not.
+   - [3](https://github.com/codewithsandy/C/blob/master/Matrix/115.%20Determinant%20of%202%C3%972%20matrix.c) - Program to calculate the determinant of 2×2 matrix.
+   - [4](https://github.com/codewithsandy/C/blob/master/Matrix/116.%20Determinant%20of%203%C3%973%20matrix.c) - Program to calculate the determinant of 3×3 matrix.
+   - [5](https://github.com/codewithsandy/C/blob/master/Matrix/122.%20Multiplication%20of%20two%20Matrices.c) - Program for Multiplication of two Matrices
+   
 - [Binary Conversion](https://github.com/codewithsandy/C/tree/master/Binary%20Conversion's) - The Spectial programs in c, Decimal to Binary and Binary to Decimal.
 
 - [Searching](https://github.com/codewithsandy/C/tree/master/Search) - Differnet searching programs.
 - [Sorting](https://github.com/codewithsandy/C/tree/master/Sort) - Differnet sorting method programs.
 
 - [Pattern Programs](https://github.com/codewithsandy/C/tree/master/Pattern) - Select Your Favourite pattern and get code on this directory with respective number.
-   <details><summary>Programs List </summary>
+   <details><summary> Programs </summary>
    
    - [21](https://github.com/codewithsandy/C/blob/master/Pattern/21.%20Half%20Pyramid%20of%20star.c) - Program for Half Pyramid of *.
    - [22](https://github.com/codewithsandy/C/blob/master/Pattern/22.%20Half%20inverted%20pyramid%20of%20star.c) - Program for Half Inverted Pyramid of *
