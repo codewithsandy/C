@@ -31,8 +31,9 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
    - [3](https://github.com/codewithsandy/C/blob/master/Array/111.%20Arrange%20array%20in%20ascending%20order.c) - Program to arrange array numbers in ascending order.
    - [4](https://github.com/codewithsandy/C/blob/master/Array/113.%20Delete%20an%20element%20from%20array.c) - Program to delete an element from array.
    - [5](https://github.com/codewithsandy/C/blob/master/Array/117.%20Largest%20and%20Smallest%20number%20in%20array.c) - Program to find Largest and Smallest number in array.
-   - [6](https://github.com/codewithsandy/C/blob/master/Array/118.%20reverse%20the%20array.c) - Program to reverse the array.
-   - [7](https://github.com/codewithsandy/C/blob/master/Array/119.%20insert%20an%20element%20in%20array.c) - Program to insert an element in array.
+   - [6](https://github.com/codewithsandy/C/blob/master/Array/118.%20reverse%20the%20array.c) - Program to reverse the array. <!-- 118 -->
+   - [7](https://github.com/codewithsandy/C/blob/master/Array/119.%20insert%20an%20element%20in%20array.c) - Program to insert an element in array. <!-- 119 -->
+   - [8](https://github.com/codewithsandy/C/blob/master/Array/114.%20Delete%20number%20from%20array.c) - Program to delete given number from array. <!-- 114 -->
  
 
 - [String](https://github.com/codewithsandy/C/tree/master/String) - We have used String in a number of examples in this directory.
