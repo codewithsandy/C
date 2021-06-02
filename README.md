@@ -42,6 +42,17 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 
 - [Arithmetic Numerical](https://github.com/codewithsandy/C/tree/master/Arithmetic%20Numerical) - Contains the differents Arithmetic numerical operations.
 - [Numerical Method's](https://github.com/codewithsandy/C/tree/master/Numerical%20Method's) - Contains the differents Arithmetic Methods and Equations.
+   <details><summary> Programs</summary>
+   
+   - [1](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/13.%20%20Find%20the%20roots%20of%20a%20quadratic%20equation.c) - Program to find the roots of a quadratic equation.
+   - [2](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/76.%20Sum%20of%20factorial%20series%2011!%20%2B%2022!%20%2B...1N!.c) - Program to print sum of factorial series 1/1! + 2/2! +...1/N!
+   - [3](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/77.%20Sum%20of%20'n'%20terms%20in%20Taylor%20series.c) - Program to calculate the sum of 'n' terms in Taylor series.
+   - [4](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/83.%20Find%20area%20of%20triangle%20using%20Heron's%20formula.c) - Program to find area of triangle using Heron's formula.
+   - [5](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/86.%20Find%20f(x)%20by%20Lagrange's%20interpolation%20method.c) - Program to find f(x) by Lagrange's interpolation method.
+   - [6](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/89.%20General%20Newton%20Raphson.c) - Program for Newton Raphson General.
+   - [7](https://github.com/codewithsandy/C/blob/master/Array/119.%20insert%20an%20element%20in%20array.c) - Program to insert an element in array. <!-- 119 -->
+   - [8](https://github.com/codewithsandy/C/blob/master/Array/114.%20Delete%20number%20from%20array.c) - Program to delete given number from array.
+      
 - [Complex Number](https://github.com/codewithsandy/C/tree/master/Complex%20Number) - This directory contains the complex number programs.
 - [Operators](https://github.com/codewithsandy/C/tree/master/Operators) - Contains the different programs of operators.
  
