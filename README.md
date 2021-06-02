@@ -52,8 +52,13 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
    - [6](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/89.%20General%20Newton%20Raphson.c) - Program for Newton Raphson General.
    - [7](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/91.%20Simpson%2013%20rule.c) - Program for Simpson 1/3 rule.
    - [8](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/123.%20Goldbach's%20Conjecture.c) - Program for Goldbach's Conjecture.
-   - [9]() - .
-   - [10]() - .
+   - [9](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/135.%20Sieve%20of%20Eratosthenes%20%20An%20algorithm%20to%20generate%20all%20the%20prime%20numbers%20within%20an%20range.c) - Sieve of Eratosthenes : An algorithm to generate all the prime numbers within an range.
+   - [10](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/157.%20Durand%20Kerner%20Roots.c) - Durand Kerner Roots.
+   - [11](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/158.%20Gauss%20Elimination.c) - Program for Gauss Elimination Method.
+   - [12](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/159.%20Gauss%20Seidel%20Method.c) - Program for Gauss Seidel Method.
+   - [13](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/160.%20Lagrange%20Theorem.c) - Lagrange Theorem..
+   - [14](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/161.%20Newton-Raphson%20interpolation.c) - Newton-Raphson interpolation algorithm..
+   - [15]() - .
       
 - [Complex Number](https://github.com/codewithsandy/C/tree/master/Complex%20Number) - This directory contains the complex number programs.
 - [Operators](https://github.com/codewithsandy/C/tree/master/Operators) - Contains the different programs of operators.
