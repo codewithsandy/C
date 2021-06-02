@@ -58,7 +58,11 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
    - [12](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/159.%20Gauss%20Seidel%20Method.c) - Program for Gauss Seidel Method.
    - [13](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/160.%20Lagrange%20Theorem.c) - Lagrange Theorem..
    - [14](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/161.%20Newton-Raphson%20interpolation.c) - Newton-Raphson interpolation algorithm..
-   - [15]() - .
+   - [15](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/162.%20Ode%20Forward%20Euler.c) - Ordinary differential equation using forward Euler
+   - [16](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/163.%20Mean.c) - Mean.
+   - [17](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/164.%20Median.c) - Median.
+   - [18](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/165.%20Variance.c) - Variance.
+   <!-- - [19]() - . 166  -->
       
 - [Complex Number](https://github.com/codewithsandy/C/tree/master/Complex%20Number) - This directory contains the complex number programs.
 - [Operators](https://github.com/codewithsandy/C/tree/master/Operators) - Contains the different programs of operators.
