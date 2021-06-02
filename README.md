@@ -50,8 +50,10 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
    - [4](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/83.%20Find%20area%20of%20triangle%20using%20Heron's%20formula.c) - Program to find area of triangle using Heron's formula.
    - [5](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/86.%20Find%20f(x)%20by%20Lagrange's%20interpolation%20method.c) - Program to find f(x) by Lagrange's interpolation method.
    - [6](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/89.%20General%20Newton%20Raphson.c) - Program for Newton Raphson General.
-   - [7](https://github.com/codewithsandy/C/blob/master/Array/119.%20insert%20an%20element%20in%20array.c) - Program to insert an element in array. <!-- 119 -->
-   - [8](https://github.com/codewithsandy/C/blob/master/Array/114.%20Delete%20number%20from%20array.c) - Program to delete given number from array.
+   - [7](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/91.%20Simpson%2013%20rule.c) - Program for Simpson 1/3 rule.
+   - [8](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/123.%20Goldbach's%20Conjecture.c) - Program for Goldbach's Conjecture.
+   - [9]() - .
+   - [10]() - .
       
 - [Complex Number](https://github.com/codewithsandy/C/tree/master/Complex%20Number) - This directory contains the complex number programs.
 - [Operators](https://github.com/codewithsandy/C/tree/master/Operators) - Contains the different programs of operators.
