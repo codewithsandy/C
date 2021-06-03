@@ -62,7 +62,14 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
    - [16](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/163.%20Mean.c) - Mean.
    - [17](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/164.%20Median.c) - Median.
    - [18](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/165.%20Variance.c) - Variance.
-   <!-- - [19]() - . 166  -->
+   - [19](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/166.%20QR%20Eigen%20Values.c) - Compute real eigen values and eigen vectors of a symmetric matrix method  
+   - [20](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/167.%20Realtime%20Stats.c) - Compute statistics for data entered in Real-time Stats
+   - [21](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/168.%20LU%20Decompose.c) - LU decomposition square matrix 
+   - [22](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/169.%20Ode%20Midpoint%20Euler.c) - Solve a multivariable first order [ordinary differential equation (ODEs) using (midpoint Euler method)
+   - [23](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/170.%20ODE%20semi%20implicit%20Euler.c) - Solve a multivariable first order [ordinary differential equation (ODEs) using [semi implicit Euler method] 
+   - [24](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/171.%20Qr%20Decompose.h) - QR decomposition of a given matrix.
+   - [25](https://github.com/codewithsandy/C/blob/master/Numerical%20Methods/172.%20Qr%20Decomposition.c) - Program to compute the QR decomposition of a given matrix.
+   
       
 - [Complex Number](https://github.com/codewithsandy/C/tree/master/Complex%20Number) - This directory contains the complex number programs.
 - [Operators](https://github.com/codewithsandy/C/tree/master/Operators) - Contains the different programs of operators.
