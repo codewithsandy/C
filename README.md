@@ -83,6 +83,7 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
    - [3](https://github.com/codewithsandy/C/blob/master/Matrix/115.%20Determinant%20of%202%C3%972%20matrix.c) - Program to calculate the determinant of 2×2 matrix.
    - [4](https://github.com/codewithsandy/C/blob/master/Matrix/116.%20Determinant%20of%203%C3%973%20matrix.c) - Program to calculate the determinant of 3×3 matrix.
    - [5](https://github.com/codewithsandy/C/blob/master/Matrix/122.%20Multiplication%20of%20two%20Matrices.c) - Program for Multiplication of two Matrices.
+
    
 - [Binary Conversion](https://github.com/codewithsandy/C/tree/master/Binary%20Conversion's) - The Spectial programs in c, Decimal to Binary and Binary to Decimal.
 
@@ -95,6 +96,12 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
    - [3](https://github.com/codewithsandy/C/blob/master/Sort/126.%20Sort%20array%20using%20Bubble%20Sort.c) - Program to sort array using Bubble Sort.
    - [4](https://github.com/codewithsandy/C/blob/master/Sort/173.%20Bubble%20sort.c) - Program to Bubble sort algorithm implementation.
    - [5](https://github.com/codewithsandy/C/blob/master/Sort/174.%20Quick%20sort.c) - Program for Quick sort algorithm.
+   - [6](https://github.com/codewithsandy/C/blob/master/Sort/175.%20Heap_sort.c) - Program for Heap sort algorithm.
+   - [7](https://github.com/codewithsandy/C/blob/master/Sort/176.%20Radix_sort.c) - Program for radix sort algorithm.
+   - [8](https://github.com/codewithsandy/C/blob/master/Sort/177.%20Merge_sort.c) - Program for radix sort algorithm.
+   - [9](https://github.com/codewithsandy/C/blob/master/Sort/178.%20Bucket_sort.c) - Program for bucket sort algorithm.
+   - [10](https://github.com/codewithsandy/C/blob/master/Sort/179.%20binary_insertion_sort.c) - Program for binary insertation sort.
+       <!-- 180 -->
 
 - [Pattern Programs](https://github.com/codewithsandy/C/tree/master/Pattern) - Select Your Favourite pattern and get code on this directory with respective number.
    <details><summary> Programs </summary>
