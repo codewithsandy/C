@@ -101,7 +101,12 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
    - [8](https://github.com/codewithsandy/C/blob/master/Sort/177.%20Merge_sort.c) - Program for radix sort algorithm.
    - [9](https://github.com/codewithsandy/C/blob/master/Sort/178.%20Bucket_sort.c) - Program for bucket sort algorithm.
    - [10](https://github.com/codewithsandy/C/blob/master/Sort/179.%20binary_insertion_sort.c) - Program for binary insertation sort.
-       <!-- 180 -->
+   - [11](https://github.com/codewithsandy/C/blob/master/Sort/180.%20selection_sort.c) - Program for selection sort.
+   - [12](https://github.com/codewithsandy/C/blob/master/Sort/181%20selection_sort_recursive.c) - Program for selection sort recursive.
+   - [13](https://github.com/codewithsandy/C/blob/master/Sort/182.%20insertion_sort.c) - Program for insertion sort.
+   - [14](https://github.com/codewithsandy/C/blob/master/Sort/183.%20insertion_sort_recursive.c) - Program for insertion sort recursive.
+   - [15](https://github.com/codewithsandy/C/blob/master/Sort/184.%20bubble_sort_2.c) - Program for bubble sort.
+   - [16](https://github.com/codewithsandy/C/blob/master/Sort/185.%20bubble_sort_recursion.c) - Program for bubble sort recursive.
 
 - [Pattern Programs](https://github.com/codewithsandy/C/tree/master/Pattern) - Select Your Favourite pattern and get code on this directory with respective number.
    <details><summary> Programs </summary>
