@@ -107,6 +107,11 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
    - [14](https://github.com/codewithsandy/C/blob/master/Sort/183.%20insertion_sort_recursive.c) - Program for insertion sort recursive.
    - [15](https://github.com/codewithsandy/C/blob/master/Sort/184.%20bubble_sort_2.c) - Program for bubble sort.
    - [16](https://github.com/codewithsandy/C/blob/master/Sort/185.%20bubble_sort_recursion.c) - Program for bubble sort recursive.
+   - [17](https://github.com/codewithsandy/C/blob/master/Sort/186.%20random_quick_sort.c) - Randomised quick sort implementation.
+   - [18](https://github.com/codewithsandy/C/blob/master/Sort/187.%20Merge_sort_non-rec.c) - Program to demonstrate non recursive merge sort
+   - [19](https://github.com/codewithsandy/C/blob/master/Sort/188.%20bead_sort.c) - Sorting of array list using bead sort.
+   - [20](https://github.com/codewithsandy/C/blob/master/Sort/189.%20counting_sort.c) - Program for counting sort.
+   - [21](https://github.com/codewithsandy/C/blob/master/Sort/190.%20heap_sort_2.c) - Program for heap sort.
 
 - [Pattern Programs](https://github.com/codewithsandy/C/tree/master/Pattern) - Select Your Favourite pattern and get code on this directory with respective number.
    <details><summary> Programs </summary>
