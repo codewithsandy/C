@@ -117,6 +117,10 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
    - [24](https://github.com/codewithsandy/C/blob/master/Sort/193.%20Comb_sort.c) - Program for comb sort.
    - [25](https://github.com/codewithsandy/C/blob/master/Sort/194.%20Cycle_sort.c) - Program for cycle sort.
    - [26](https://github.com/codewithsandy/C/blob/master/Sort/195.%20Radix_sort_2.c) - Program for radix sort.
+   - [27](https://github.com/codewithsandy/C/blob/master/Sort/196.%20Shell_sort.c) - Program for shell sort.
+   - [28](https://github.com/codewithsandy/C/blob/master/Sort/197.%20Gnome_sort.c) - Program for gnome sort.
+   - [29](https://github.com/codewithsandy/C/blob/master/Sort/198.%20Pancake_sort.c) - Program for pancake sort.
+   - [30](https://github.com/codewithsandy/C/blob/master/Sort/199.%20Partition_sort.c) - Program for partition sort.
 
 - [Pattern Programs](https://github.com/codewithsandy/C/tree/master/Pattern) - Select Your Favourite pattern and get code on this directory with respective number.
    <details><summary> Programs </summary>
