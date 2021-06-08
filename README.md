@@ -112,6 +112,11 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
    - [19](https://github.com/codewithsandy/C/blob/master/Sort/188.%20bead_sort.c) - Sorting of array list using bead sort.
    - [20](https://github.com/codewithsandy/C/blob/master/Sort/189.%20counting_sort.c) - Program for counting sort.
    - [21](https://github.com/codewithsandy/C/blob/master/Sort/190.%20heap_sort_2.c) - Program for heap sort.
+   - [22](https://github.com/codewithsandy/C/blob/master/Sort/191.%20Bogo_sort.c) - Program for bogo sort.
+   - [23](https://github.com/codewithsandy/C/blob/master/Sort/192.%20Cocktail_sort.c) - Program for cocktail sort.
+   - [24](https://github.com/codewithsandy/C/blob/master/Sort/193.%20Comb_sort.c) - Program for comb sort.
+   - [25](https://github.com/codewithsandy/C/blob/master/Sort/194.%20Cycle_sort.c) - Program for cycle sort.
+   - [26](https://github.com/codewithsandy/C/blob/master/Sort/195.%20Radix_sort_2.c) - Program for radix sort.
 
 - [Pattern Programs](https://github.com/codewithsandy/C/tree/master/Pattern) - Select Your Favourite pattern and get code on this directory with respective number.
    <details><summary> Programs </summary>
