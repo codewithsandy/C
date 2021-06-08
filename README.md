@@ -121,6 +121,11 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
    - [28](https://github.com/codewithsandy/C/blob/master/Sort/197.%20Gnome_sort.c) - Program for gnome sort.
    - [29](https://github.com/codewithsandy/C/blob/master/Sort/198.%20Pancake_sort.c) - Program for pancake sort.
    - [30](https://github.com/codewithsandy/C/blob/master/Sort/199.%20Partition_sort.c) - Program for partition sort.
+   - [31](https://github.com/codewithsandy/C/blob/master/Sort/200.%20Multikey_quick_sort.c) - Program for multikey quick sort.
+   - [32](https://github.com/codewithsandy/C/blob/master/Sort/201.%20Pigeonhole_sort.c) - Program for Pigeonhole sort.
+   - [33](https://github.com/codewithsandy/C/blob/master/Sort/202.%20Shaker_sort.c) - Program for shaker sort.
+   - [34](https://github.com/codewithsandy/C/blob/master/Sort/203.%20Shell_sort2.c) - Program for shell sort.
+   - [35](https://github.com/codewithsandy/C/blob/master/Sort/204.%20Stooge_sort.c) - Program for stooge sort.
 
 - [Pattern Programs](https://github.com/codewithsandy/C/tree/master/Pattern) - Select Your Favourite pattern and get code on this directory with respective number.
    <details><summary> Programs </summary>
